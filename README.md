@@ -1,2 +1,2 @@
 # teamUp
-A React Native Mobile app to Join or create football games
+A React Native Mobile app integrated with Firebase, which can be used to Join or create football games
